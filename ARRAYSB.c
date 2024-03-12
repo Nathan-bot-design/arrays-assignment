@@ -1,3 +1,5 @@
+//ENE212-0082/2021
+//NATHAN KINGORI MACHIRA
 #include <stdio.h>
 
 #define MAX_SIZE 12
